@@ -18,6 +18,3 @@ const greeting = "Soy un mal ejemplo";
 ```js hidden
 const greeting = "Soy un saludo secreto";
 ```
-
-### Actualizacion desde la rama developer 
-### se hara solicitud de Pull Raquest 
